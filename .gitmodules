@@ -1,0 +1,9 @@
+[submodule "SDL"]
+	path = SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "rtmidi"]
+    path = rtmidi
+    url = https://github.com/thestk/rtmidi.git
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/fmtlib/fmt.git
